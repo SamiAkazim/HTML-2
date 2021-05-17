@@ -1,0 +1,81 @@
+#Menu li{
+
+
+float: left;
+
+border: 2px solid grey;
+overflow: hidden;
+padding: 1px;
+margin: 1px;
+background-color:black;
+color: white;
+}
+
+#Menu a {
+
+color:white;
+text-decoration: none;
+display: blcok;
+padding: 14px 16px;
+font-size: 14px;
+text-align: center;
+}
+
+#Menu a:hover {
+  background-color: grey;
+  font-size: 18px;
+}
+
+#home {
+  background-color: cyan;
+}
+
+#Aside{
+  
+  width: 30%;
+  padding-left: 15px;
+  margin-left: 15px;
+  float: right;
+  
+}
+
+#badges{
+  font-style: italic;
+  font-weight: bold;
+  border: 5px red;
+  border-radius: 20px 0px 20px 0px
+
+}
+#section {
+  background-color: blue;
+  width: 33%;
+  border-style: solid;
+  border-width: 5px;
+  
+}
+#Badges{
+  background-image: url("https://swall.teahub.io/photos/small/352-3528168_non-copyrighted-images-of-water.jpg"); 
+}
+
+#text1{
+  font-family: sans-serif, Arial;
+}
+
+#Contact {
+  background-color: lime;
+}
+#Email {
+  font-weight: bold;
+}
+
+#School {
+  font-weight: bold;
+}
+
+#Leerlingnummer {
+  font-weight: bold;
+}
+
+#Github {
+  font-weight: bold;
+}
