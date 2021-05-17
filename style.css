@@ -27,7 +27,7 @@ text-align: center;
 }
 
 #home {
-  background-color: cyan;
+  background-color: #01CFC0;
 }
 
 #Aside{
@@ -54,7 +54,9 @@ text-align: center;
   
 }
 #Badges{
-  background-image: url("https://swall.teahub.io/photos/small/352-3528168_non-copyrighted-images-of-water.jpg"); 
+  background-image: url("https://swall.teahub.io/photos/small/352-3528168_non-copyrighted-images-of-water.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 #text1{
